@@ -10,10 +10,11 @@ body, html {
 
 .background {background-image: url('robot.jpg');
     background-size: cover;
-    background-repeat:repeat;
     background-attachment: fixed;
-    height: 250%; /* Ensure background covers the entire viewport */
-}
+    background-repeat: no-repeat;
+  background-position: center center;
+  padding: 20px; /* Adjust padding as needed */
+}}
 
 .content {
     background-color: rgba(163, 215, 228, 0.9); /* Add a semi-transparent white background for readability */
