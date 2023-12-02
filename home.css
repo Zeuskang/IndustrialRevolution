@@ -44,3 +44,7 @@ nav.navbar {
                 display: block; /* Remove extra space below the image */
                 margin: 0 auto; /* Center the image within its container */
             }
+
+	img {
+width: 70%;
+}
