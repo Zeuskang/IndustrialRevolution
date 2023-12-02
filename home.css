@@ -11,7 +11,7 @@ body, html {
 .background {background-image: url('robot.jpg');
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
   background-position: center center;
   padding: 20px; /* Adjust padding as needed */
 }}
