@@ -17,7 +17,7 @@ body, html {
 
 .content {
     background-color: rgba(163, 215, 228, 0.9); /* Add a semi-transparent white background for readability */
-    max-width: 1100px;
+    max-width: 90%;
     margin: 0 auto;
     padding: 20px;
 }
@@ -37,5 +37,9 @@ nav.navbar {
     top: 0;
     width: 100%;  
 
-img.industrialrevolution {max-width: 70% content;
-			   height: auto;}
+.industrialrevolution {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+  }
