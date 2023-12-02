@@ -36,13 +36,5 @@ nav.navbar {
     position: fixed;
     top: 0;
     width: 100%;  
-  
 
-.industrialrevolution{
-                max-width: 100%; /* Make sure the image does not exceed its container width */
-                height: auto; /* Maintain the image's aspect ratio */
-                display: block; /* Remove extra space below the image */
-                margin: 0 auto; /* Center the image within its container */
-            }
-
-.industrial revolution {width: 70%;}
+.industrialrevolution {width: 70%;}
